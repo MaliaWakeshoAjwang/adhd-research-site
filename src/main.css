@@ -1,0 +1,23 @@
+:root {
+    /* colors */
+    /* brand colors */
+    --primary: #123dd8;
+    --secondary: #f0f0f0;
+    --tertiary: #f0f0f0;
+    --alternate: #f0f0f0;
+    /* utility colors */
+    --primary-text: #000000;
+    --secondary-text: #000000;
+    --primary-background: #ffffff;
+    --secondary-background: #ffffff;
+    /* accent colors */
+    --accent-1: #f0f0f0;
+    --accent-2: #f0f0f0;
+    --accent-3: #f0f0f0;
+    --accent-4: #f0f0f0;
+    /* sematic colors */
+    --success: #00ff00;
+    --error: #ff0000;
+    --warning: #ffff00;
+    --info: #0000ff;
+}
