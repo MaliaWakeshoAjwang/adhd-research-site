@@ -1,0 +1,61 @@
+@import './colors.css';
+
+/* Brand Colors */
+.text-primary {
+    color: var(--primary);
+}
+
+.text-secondary {
+    color: var(--secondary);
+}
+
+.text-tertiary {
+    color: var(--tertiary);
+}
+
+.text-alternate {
+    color: var(--alternate);
+}
+
+/* Utility Colors */
+.text-primary-text {
+    color: var(--primary-text);
+}
+
+.text-secondary-text {
+    color: var(--secondary-text);
+}
+
+/* Accent Colors */
+.text-accent-1 {
+    color: var(--accent-1);
+}
+
+.text-accent-2 {
+    color: var(--accent-2);
+}
+
+.text-accent-3 {
+    color: var(--accent-3);
+}
+
+.text-accent-4 {
+    color: var(--accent-4);
+}
+
+/* Semantic Colors */
+.text-success {
+    color: var(--success);
+}
+
+.text-error {
+    color: var(--error);
+}
+
+.text-warning {
+    color: var(--warning);
+}
+
+.text-info {
+    color: var(--info);
+}
