@@ -17,5 +17,3 @@ The site presents:
 - [Vite](https://vitejs.dev/)
 - [CSS Modules](https://github.com/css-modules/css-modules)
 - [Figma](https://figma.com/) (for design & typography system)
-
-## 📂 Folder Structure
