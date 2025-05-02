@@ -1,0 +1,46 @@
+.research-section {
+    background-color: var(--primary-background);
+    color: var(--primary-text);
+    padding: 3rem 1.5rem;
+  }
+  
+  .research-container {
+    max-width: 768px;
+    margin: 0 auto;
+  }
+  
+  .research-heading {
+    font-size: 2rem;
+    font-weight: bold;
+    text-transform: lowercase;
+    margin-bottom: 1.5rem;
+  }
+  
+  .research-intro,
+  .research-subheading,
+  .research-conclusion {
+    font-size: 1.125rem;
+    margin-bottom: 1.25rem;
+  }
+  
+  .research-question-highlight {
+    font-size: 1.25rem;
+    font-style: italic;
+    font-weight: 500;
+    background-color: var(--alternate);
+    padding: 1rem;
+    border-left: 4px solid var(--primary);
+    margin-bottom: 1.5rem;
+  }
+  
+  .research-list {
+    list-style-type: disc;
+    padding-left: 1.5rem;
+    margin-bottom: 1.5rem;
+  }
+  
+  .research-list li {
+    font-size: 1.125rem;
+    margin-bottom: 0.75rem;
+    text-transform: lowercase;
+  }
