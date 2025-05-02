@@ -20,6 +20,12 @@ const ConclusionSection = () => {
         <p className="conclusion-paragraph">
           <strong>So what?</strong> These insights point to a critical opportunity: rethinking academic support systems through the lens of neurodiversity. Human-centered, customizable, and emotionally supportive digital tools can transform how ADHD students navigate college life. Our findings will directly inform the development of <em>clarifi</em>, a platform intentionally built to empower neurodivergent students — not just accommodate them.
         </p>
+        <p className="conclusion-paragraph">
+          The next steps would be to analzye the results from the interviews and surveys conducted with ADHD students. This will help us to understand their needs and pain points in more detail, and to validate the findings from the Reddit data analysis.
+        </p>
+        <p className="conclusion-paragraph">
+          We are excited to continue this journey and to share our findings with the community. Thank you for your interest in our research!
+        </p>
       </section>
     );
   };
