@@ -1,0 +1,23 @@
+.problem-section {
+    background-color: var(--secondary-background);
+    color: var(--primary-text);
+    padding: 3rem 1.5rem;
+  }
+  
+  .problem-container {
+    max-width: 768px;
+    margin: 0 auto;
+  }
+  
+  .problem-heading {
+    font-size: 2rem;
+    font-weight: bold;
+    text-transform: lowercase;
+    margin-bottom: 1.5rem;
+  }
+  
+  .problem-paragraph {
+    font-size: 1.125rem;
+    line-height: 1.75;
+    margin-bottom: 1.25rem;
+  }
