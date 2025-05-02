@@ -1,7 +1,7 @@
-/* src/styles/ConclusionSection.css */
-.conclusion-section {
+/* src/styles/TeamContributionSection.css */
+.team-contribution-section {
     padding: 3rem 1.5rem;
-    background-color: var(--secondary-background);
+    background-color: var(--primary-background);
     border-radius: 16px;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
     margin-bottom: 2rem;
@@ -14,16 +14,16 @@
     color: var(--primary-text);
   }
   
-  .conclusion-paragraph {
+  .team-paragraph {
     font-size: 1rem;
-    margin-bottom: 1rem;
     color: var(--secondary-text);
+    margin-bottom: 1rem;
     line-height: 1.6;
   }
   
-  .conclusion-list {
+  .team-list {
     list-style-type: disc;
     margin-left: 1.5rem;
-    margin-bottom: 1rem;
     color: var(--secondary-text);
+    margin-bottom: 1rem;
   }
