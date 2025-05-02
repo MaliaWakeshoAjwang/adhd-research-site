@@ -1,0 +1,49 @@
+.users-section {
+    background-color: var(--secondary-background);
+    color: var(--primary-text);
+    padding: 3rem 1.5rem;
+  }
+  
+  .users-container {
+    max-width: 768px;
+    margin: 0 auto;
+  }
+  
+  .users-heading {
+    font-size: 2rem;
+    font-weight: bold;
+    text-transform: lowercase;
+    margin-bottom: 1.5rem;
+  }
+  
+  .users-intro,
+  .users-conclusion {
+    font-size: 1.125rem;
+    margin-bottom: 1.5rem;
+    text-transform: lowercase;
+  }
+  
+  .users-subheading {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    text-transform: lowercase;
+    color: var(--primary);
+  }
+  
+  .users-list {
+    padding-left: 1.5rem;
+    margin-bottom: 1.5rem;
+  }
+  
+  .users-list li {
+    font-size: 1.125rem;
+    margin-bottom: 0.75rem;
+    text-transform: lowercase;
+  }
+  
+  .users-list li strong {
+    color: var(--secondary-text);
+    font-weight: 600;
+  }

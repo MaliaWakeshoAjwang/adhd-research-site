@@ -1,0 +1,61 @@
+.data-section {
+    background-color: var(--primary-background);
+    padding: 3rem 1.5rem;
+    color: var(--primary-text);
+  }
+  
+  .data-container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .data-heading {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 1.5rem;
+    text-transform: lowercase;
+  }
+  
+  .data-intro {
+    font-size: 1.125rem;
+    margin-bottom: 2rem;
+    text-transform: lowercase;
+  }
+  
+  .data-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 2rem;
+  }
+  
+  .data-card {
+    background-color: var(--secondary-background);
+    border: 1px solid var(--alternate);
+    border-radius: 1rem;
+    padding: 1.5rem;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+  }
+  
+  .data-card h3 {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+    color: var(--primary);
+    text-transform: lowercase;
+  }
+  
+  .data-card ul {
+    padding-left: 1.2rem;
+    list-style-type: disc;
+  }
+  
+  .data-card li {
+    font-size: 1rem;
+    margin-bottom: 0.8rem;
+    text-transform: lowercase;
+  }
+  
+  .data-card a {
+    color: var(--secondary);
+    text-decoration: underline;
+  }

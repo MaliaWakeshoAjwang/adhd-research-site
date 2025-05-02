@@ -5,10 +5,11 @@ import './styles/pages/App.css'
 
 // import HeroSection from './sections/HeroSection';
 import ProblemSpaceSection from './sections/ProblemSpaceSection';
-// import ResearchQuestionsSection from './sections/ResearchQuestionsSection';
-// import TargetAudienceSection from './sections/TargetAudienceSection';
-// import MethodsSection from './sections/MethodsSection';
-// import FindingsSection from './sections/FindingsSection';
+import ResearchQuestionsSection from './sections/ResearchQuestionsSection';
+import TargetAudienceSection from './sections/TargetAudienceSection';
+import DataCollectionSection from './sections/DataCollectionSection';
+import DataAnalysisSection from './sections/DataAnalysisSection';
+import ResultsSection from './sections/ResultsSection';
 // import ConclusionSection from './sections/ConclusionSection';
 
 
@@ -21,10 +22,11 @@ function App() {
 
       {/* <HeroSection /> */}
       <ProblemSpaceSection />
-      {/* <ResearchQuestionsSection /> */}
-      {/* <TargetAudienceSection /> */}
-      {/* <MethodsSection /> */}
-      {/* <FindingsSection /> */}
+      <ResearchQuestionsSection />
+      <TargetAudienceSection />
+      <DataCollectionSection />
+      <DataAnalysisSection />
+      <ResultsSection />
       {/* <ConclusionSection /> */}
 
       {/* <Footer /> */}
